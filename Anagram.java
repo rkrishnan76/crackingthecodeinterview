@@ -13,7 +13,7 @@ import java.util.regex.*;
 This class has got two solutions one using reqular expression and split etc...
 First solution using numberNeeded function is effective for String that are longer
 Second solution is effective for shorter Strings.  numberNeeded1 function 
-is written without any libraries with O(n) solution.
+is written without any libraries except for Math.abs with O(n) solution.
 
 */
 public class Anagram {
